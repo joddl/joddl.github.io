@@ -17,7 +17,17 @@ canvas {
   background: #ff006e; 
   }
 
-
+span {
+  top:60%;
+  left:20%;
+  position: absolute;
+  align-items: center;
+  background-color: #fee6e3;
+  color: #111;
+  display: flex;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+}
 
 /* CSS */
 .button-56 {
